@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=xmlcodec
+IAge=3
+Name=XML Codec
+Description=A utility for XML-encoding/decoding blocks of text
+Authors=Kieron Briggs <kbriggs@gmail.com>
+Copyright=Copyright © 2013 Kieron Briggs <kbriggs@gmail.com>
+Website=https://github.com/kbriggs/gedit-xml-codec
+
